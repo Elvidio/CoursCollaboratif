@@ -1,3 +1,7 @@
 ziofgjsoifjsojfosidjfoisefojqsoifjoifjsoidfj
 
+<<<<<<< HEAD
 qidjodijq
+=======
+sfijsfioj
+>>>>>>> Test
